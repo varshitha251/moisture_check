@@ -1,0 +1,3 @@
+2026-02-21 11:21:59 - Moisture: 29% - Pump: ON
+2026-02-21 11:22:10 - Moisture: 64% - Pump: OFF
+2026-02-21 11:22:11 - Moisture: 9% - Pump: ON

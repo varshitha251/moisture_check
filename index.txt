@@ -1,0 +1,20 @@
+2026-02-21 14:53:02 | User:py | Moisture:25% | Tank:81% | Pump:ON
+2026-02-21 14:53:03 | User:py | Moisture:22% | Tank:96% | Pump:ON
+2026-02-21 14:53:08 | User:py | Moisture:38% | Tank:24% | Pump:ON
+2026-02-21 16:12:16 | User:yokshitha | Moisture:92% | Tank:78% | Pump:OFF
+2026-02-21 16:12:37 | User:yokshitha | Moisture:86% | Tank:36% | Pump:OFF
+2026-02-21 16:12:42 | User:yokshitha | Moisture:39% | Tank:62% | Pump:ON
+2026-02-21 16:12:47 | User:yokshitha | Moisture:12% | Tank:18% | Pump:OFF (Low Tank)
+2026-02-21 16:12:52 | User:yokshitha | Moisture:7% | Tank:47% | Pump:ON
+2026-02-21 16:12:57 | User:yokshitha | Moisture:22% | Tank:97% | Pump:ON
+2026-02-21 16:13:02 | User:yokshitha | Moisture:32% | Tank:88% | Pump:ON
+2026-02-21 16:13:07 | User:yokshitha | Moisture:23% | Tank:91% | Pump:ON
+2026-02-21 16:13:12 | User:yokshitha | Moisture:85% | Tank:85% | Pump:OFF
+2026-05-06 12:06:32 | User:yokshitha | Moisture:44% | Tank:16% | Pump:OFF (Low Tank)
+2026-05-06 12:06:34 | User:yokshitha | Moisture:73% | Tank:36% | Pump:OFF
+2026-05-06 12:06:35 | User:yokshitha | Moisture:24% | Tank:96% | Pump:ON
+2026-05-06 12:06:39 | User:yokshitha | Moisture:16% | Tank:10% | Pump:OFF (Low Tank)
+2026-05-06 12:06:40 | User:yokshitha | Moisture:13% | Tank:70% | Pump:ON
+2026-05-06 12:06:44 | User:yokshitha | Moisture:29% | Tank:21% | Pump:ON
+2026-05-06 12:06:45 | User:yokshitha | Moisture:18% | Tank:95% | Pump:ON
+2026-05-06 20:56:12 | User:yokshitha | Moisture:34% | Tank:14% | Pump:OFF (Low Tank)
